@@ -23,8 +23,6 @@ For example, a high number of flow bytes or packets in a short duration going to
 
 I wanted to work on a project that combines machine learning with cybersecurity because both areas interest me. Intrusion detection is a good problem to study because it is not just about getting a high accuracy score. The model also needs to correctly identify harmful traffic.
 
-A model could appear accurate if most of the dataset is benign, but still perform poorly at detecting attacks. Because of that, I plan to look at metrics such as precision, recall, F1-score, and confusion matrices.
-
 ## Tools and Technologies
 
 - Python
@@ -32,7 +30,6 @@ A model could appear accurate if most of the dataset is benign, but still perfor
 - NumPy
 - scikit-learn
 - matplotlib
-- Jupyter Notebook
 - Git/GitHub
 
 ## Current Progress
@@ -52,8 +49,6 @@ The next steps for this project are:
 - Split the data into training and testing sets
 - Train baseline machine learning models
 - Compare model results using classification metrics
-- Create visualizations such as confusion matrices
-- Write a short summary of the results and limitations
 
 ## Dataset Source
 
@@ -64,4 +59,4 @@ Dataset link: https://www.unb.ca/cic/datasets/ids-2017.html
 ## Author
 
 Sameer Shrivastava  
-Computer Science/Data Science Student
+Computer/Data Science Student
