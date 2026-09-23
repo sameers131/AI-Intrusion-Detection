@@ -1,3 +1,14 @@
-Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
-Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv
-Friday-WorkingHours-Morning.pcap_ISCX.csv
+# Virtual environment
+.venv-1/
+.venv/
+venv/
+
+# Raw dataset (CIC-IDS2017 CSVs are hundreds of MB each)
+*.csv
+
+# Picked Models
+artifacts/*.pkl
+
+
+
+
