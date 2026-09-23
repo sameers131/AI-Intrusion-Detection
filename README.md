@@ -109,7 +109,10 @@ Random Forest does much better, with a Bot precision of about 0.38 and an F1 sco
 ```
    python plots.py
 ```
-5. Launch the demo app with `streamlit run app.py`
+5. Launch the demo app with
+```
+    streamlit run app.py`
+```
 
 The raw data and trained model files are not included in this repo because of their size. Running the scripts above recreates them.
 
